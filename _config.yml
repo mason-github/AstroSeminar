@@ -36,3 +36,5 @@ destination:      ./_site
 incremental:      false
 regenerate:       true
 
+
+theme: jekyll-theme-minimal
